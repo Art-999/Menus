@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/move_to"
+        android:title="Move to" />
+    <item
+        android:id="@+id/change_labels"
+        android:title="Change labels" />
+    <item
+        android:id="@+id/mark_important"
+        android:title="Mark important" />
+    <item
+        android:id="@+id/mute"
+        android:title="Mute" />
+    <item
+        android:id="@+id/print"
+        android:title="Print" />
+    <item
+        android:id="@+id/revert_auto_sizing"
+        android:title="Revert auto-sizing" />
+    <item
+        android:id="@+id/report_spam"
+        android:title="Report spam" />
+</menu>
